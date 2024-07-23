@@ -1,5 +1,5 @@
 {
-  "name":"HACKING-MD",
+  "name":"░C░H░I░K░U░_░D░J░",
   "description":"bot whatsapp développé par thomas",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/b8e378f61794498c29c34.jpg",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"/",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -21,21 +21,21 @@
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
     ,
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
     ,
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"HACKING-MD",
+      "value":"░C░H░I░K░U░_░D░J░",
       "required":false
 
     } ,
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"HACKING-MD;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0d5TTQzSkc0aEZMREpGdHpkcUZtUXJxR0ZWQ1FBWDQ3RnFFZWp1ZDdXbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNCt1czdBRkMweEhHcVdhaUM1L2ZhNlNYMnFpMmlhckV1UXliZjUvQ1VSQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnRXRRUjRMc1hScm11TTFBbkpVVDF6TFFZSDJJWXM0KzdxMUZBYmYwRjM4PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2OSt4aUJ4Uk9hSUNLNG00KzVZNTdNZTJhTTRFa3VGWHZiNEs0VHN3RXlnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlOUE9zWkI0UUhRSlRHSkxQTGhpVmphakdsSHdjOSt2OW5tVE9ZQUVyM0U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik13Qm1hM0xnd2s0bElTcGt3bFVsOEYxUFoxaEc4NHB6bm5ERWFBTFh2Q2M9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0ViWmszdmZ5azJ4MHJMWkRMNEV0Vk5ROEQ5OWR2VndNMzdZRlJjQ2JHQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0s1d0FtUGRsUWU3bmNXYXkyYzQ4R0ZqNDVNdG1CS2JqVW9NTWM1eUZGYz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdUTG1yQnc0d2dGWHAvaVVqb3YwVWcvNFRjbkcrNnM1UkdrMkxHeUJ2QTZmSVZJZllTakUvd0pISHJ5VlRTQmlRS2pUb1QvWjdMK1hFTm1ZRjdjOGh3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTA4LCJhZHZTZWNyZXRLZXkiOiI0RWFZSEZCRWZrMTdGeTFGczczK3Z1eXg4ZVBseEFFZE9OSmI4ZmwyM20wPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJISXE0QkJTRlEwbWdUbk0wdXRTZTNRIiwicGhvbmVJZCI6IjJjYTlkN2I3LTM0ZmYtNGI4NC05NDg4LTljYWVkYzJjNjNmOSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUOFAzYnZFdTBOUjlobVovVG5JSXpkRGpEeFE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiei9iYlM4Y0FhS2wvcStMYzlZYkZlV3NDZk1zPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjlHN0RTUkIxIiwibWUiOnsiaWQiOiIyNTU2NzUxMDQ0OTA6NTlAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ09mV3dZd0NFSkNaZ0xVR0dCSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjJDVU50MHBBeTQwaUpkd3ZyT1p5NmEzQk0zTUs0bDZ0WktqUi9WQWVJRDg9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlRacnpMZlAxS2piVGFGOFZGMmJRanZlem5wRnp6ZklGcE12eTBCUjdYamJnS1JaOWlzc2tGazRQUkVWWW82TFEyZTluMDN6OExGU3RmRTJmTjA2K0NnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ3TmgxUHR2d2pKNU5xT1BpMW9kKzBqakd0VTBzUDlBYU5NMTg1NlJqK09jNk80VXpEYjJNVlYwOTJsVDFTNWhJZFFJaWVvTy8zNXRlMlBvcU5qSHBoQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTY3NTEwNDQ5MDo1OUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJkZ2xEYmRLUU11TklpWGNMNnptY3VtdHdUTnpDdUplcldTbzBmMVFIaUEvIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIxNzY1MDIxLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUE0bSJ9",
       "required":true
       
     },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Thomas"
+    "value": "CHIKU_DJ"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "2250545065189"
+    "value": "255675104490"
   },
     "WARN_COUNT":
   {
@@ -93,16 +93,16 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"1",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
